@@ -45,7 +45,7 @@ Identify high-value customers and compare customer revenue with actual profitabi
 <img width="1187" height="757" alt="image" src="https://github.com/user-attachments/assets/af687c69-f121-4390-9ba1-ad77a7a011b7" />
 
 ## Key takeaway:
-usiness growth is not only about increasing sales — it is also about understanding who buys, who returns, who generates profit, and where the strongest demand comes from.
+usiness growth is not only about increasing sales — it is also about understanding who buys, who returns, who generates profit, and where the strongest demand comes from.<br>
 https://public.tableau.com/views/ProjectSalesonline/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 

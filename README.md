@@ -22,6 +22,8 @@ Analyze differences in profitability across product groups.<br>
 Present weekly Sales and Profit trends within the selected period.<br>
 Display average weekly values.<br>
 Highlight weeks performing above or below the average.<br>
+<img width="1197" height="767" alt="image" src="https://github.com/user-attachments/assets/c91afd6c-e415-4cf9-a4e4-0db21c8165b1" />
+
 
 ## Customer Dashboard | Requirements
 
@@ -40,3 +42,6 @@ Represent the distribution of customers based on the number of orders placed dur
 Present the Top 10 customers generating the highest Profit during the selected month.<br>
 Display additional information such as Sales, Profit, number of Orders, and Profit Margin (%).<br>
 Identify high-value customers and compare customer revenue with actual profitability.<br>
+<img width="1187" height="757" alt="image" src="https://github.com/user-attachments/assets/af687c69-f121-4390-9ba1-ad77a7a011b7" />
+
+

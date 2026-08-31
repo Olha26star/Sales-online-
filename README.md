@@ -11,17 +11,17 @@ The purpose of the Sales Dashboard is to provide an overview of key sales metric
 Display a summary of total sales, profit, number of customers, and other key metrics for the selected month and compare them with the previous month.
 # Sales Trends
 Present Sales and Profit performance on a monthly basis.<br>
-Compare the current month with the previous month (MoM) (PM).
-Identify months with the highest and lowest Sales and Profit.
-Highlight significant changes in business performance.
+Compare the current month with the previous month (MoM) (PM).<br>
+Identify months with the highest and lowest Sales and Profit.<br>
+Highlight significant changes in business performance.<br>
 # Product Subcategory Comparison
-Compare Sales and Profit across different product categories and subcategories.
-Identify the product groups generating the highest Sales and Profit.
-Analyze differences in profitability across product groups.
+Compare Sales and Profit across different product categories and subcategories.<br>
+Identify the product groups generating the highest Sales and Profit.<br>
+Analyze differences in profitability across product groups.<br>
 # Weekly Trends for Sales & Profit
-Present weekly Sales and Profit trends within the selected period.
-Display average weekly values.
-Highlight weeks performing above or below the average.
+Present weekly Sales and Profit trends within the selected period.<br>
+Display average weekly values.<br>
+Highlight weeks performing above or below the average.<br>
 
 ## Customer Dashboard | Requirements
 
@@ -30,13 +30,13 @@ The purpose of the Customer Dashboard is to analyze customer activity, purchasin
 
 # Customer KPI Overview
 Display key customer metrics for the selected month and compare them with the previous month, including:
-Total Customers
-Sales per Customer
-Orders
-Repeat Purchase Rate
+Total Customers<br>
+Sales per Customer<br>
+Orders<br>
+Repeat Purchase Rate<br>
 # Purchase Frequency Distribution
 Represent the distribution of customers based on the number of orders placed during the selected month to understand purchasing frequency and repeat customer behavior.
 # Top 10 Customers by Profit
-Present the Top 10 customers generating the highest Profit during the selected month.
-Display additional information such as Sales, Profit, number of Orders, and Profit Margin (%).
-Identify high-value customers and compare customer revenue with actual profitability.
+Present the Top 10 customers generating the highest Profit during the selected month.<br>
+Display additional information such as Sales, Profit, number of Orders, and Profit Margin (%).<br>
+Identify high-value customers and compare customer revenue with actual profitability.<br>
